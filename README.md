@@ -26,4 +26,5 @@ This project helps users record and manage their daily expenses through a simple
 
 ## 🚀 Live Demo
 
+https://anushkagupta09343-lab.github.io/Expense-Tracker/
 
